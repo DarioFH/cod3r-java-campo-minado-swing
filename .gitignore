@@ -1,0 +1,7 @@
+/.metadata/
+bin/
+out/
+/.idea
+.classpath
+.project
+*.iml
